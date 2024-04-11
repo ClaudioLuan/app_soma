@@ -6,7 +6,14 @@ Requisitos Funcionais
 
 Entrada de Números: Os usuários devem poder fornecer dois números por meio de um formulário.
 
+![image](https://github.com/ClaudioLuan/app_soma/assets/103973628/27912adb-7295-4d06-95eb-38c58f334041)
+
+![image](https://github.com/ClaudioLuan/app_soma/assets/103973628/4460b071-69f4-4c37-a664-63ea4c256640)
+
 Cálculo da Soma: A aplicação deve calcular a soma dos dois números fornecidos pelos usuários. O resultado da soma deve ser exibido na interface do usuário.
+
+![image](https://github.com/ClaudioLuan/app_soma/assets/103973628/0eba212e-fe77-4986-a30f-11ab8bf0695f)
+
 
 Requisitos Técnicos
 
