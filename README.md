@@ -1,8 +1,8 @@
-Problema Matemático de Soma
+# Problema Matemático de Soma
 
 Desenvolver uma aplicação simples para calcular a soma de dois números. A aplicação deve permitir que os usuários informem dois números e então exibir a soma desses números.
 
-Requisitos Funcionais
+## Requisitos Funcionais
 
 Entrada de Números: Os usuários devem poder fornecer dois números por meio de um formulário.
 
@@ -15,7 +15,7 @@ Cálculo da Soma: A aplicação deve calcular a soma dos dois números fornecido
 ![image](https://github.com/ClaudioLuan/app_soma/assets/103973628/0eba212e-fe77-4986-a30f-11ab8bf0695f)
 
 
-Requisitos Técnicos
+## Requisitos Técnicos
 
  A aplicação deve seguir o padrão MVC (Model-View-Controller);
  O modelo deve ser responsável por realizar o cálculo da soma dos números;
