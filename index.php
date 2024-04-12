@@ -2,11 +2,11 @@
 
 require_once 'controller/SomaController.php';
 
-$action = isset($_GET['action']) ? $_GET['action'] : 'index';
+$acao = isset($_GET['action']) ? $_GET['action'] : 'index';
 
 $controller = new SomaController();
 
-switch ($action) {
+switch ($acao) {
     case 'index':
         $controller->index();
         break;
