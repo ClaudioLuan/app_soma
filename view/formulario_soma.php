@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h1>><b>Aplicação Soma</b></h1>
+    <h1><b>Aplicação Soma</b></h1>
     <form action="index.php?action=calcularSoma" method="post">
         <label for="num1">Número 1:</label>
         <input type="number" name="num1" id="num1" required><br><br>

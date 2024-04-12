@@ -4,7 +4,7 @@ require_once 'model/SomaModel.php';
 
 class SomaController {
     public function index() {
-        require 'view/formulario_soma';
+        require 'view/formulario_soma.php';
     }
 
     public function calcularSoma() {
