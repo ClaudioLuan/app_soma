@@ -1,5 +1,4 @@
 <?php
-
 require_once 'controller/SomaController.php';
 
 $acao = isset($_GET['action']) ? $_GET['action'] : 'index';
@@ -14,7 +13,8 @@ switch ($acao) {
         $controller->calcularSoma();
         break;
     default:
-        // Página não encontrada
+        # Página não encontrada
         echo "404 - Not Found";
         break;
 }
+
