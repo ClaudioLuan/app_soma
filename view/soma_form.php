@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="pt">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aplicação Soma</title>
 </head>
+
 <body>
     <h1>Aplicação Soma</h1>
     <form action="index.php?action=calcularSoma" method="post">
@@ -15,4 +17,5 @@
         <input type="submit" value="Calcular">
     </form>
 </body>
+
 </html>
