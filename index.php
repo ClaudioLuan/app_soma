@@ -1,9 +1,9 @@
 <?php
-require_once 'controller/SomaController.php';
+require_once 'controller/ControllerSoma.php';
 
 $acao = isset($_GET['action']) ? $_GET['action'] : 'index';
 
-$controller = new SomaController();
+$controller = new ControllerSoma();
 
 switch ($acao) {
     case 'index':
